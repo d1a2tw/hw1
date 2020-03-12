@@ -81,7 +81,6 @@ while search<5:
       
      
       if data2[i]["station_id"]==list[search]:
-      
          num=num+1
          hello=float(data2[i]["WDSD"])
       
@@ -96,7 +95,8 @@ while search<5:
        
       i=i+1
    
-   
+  
+
    diff=abs(max-min)
    if num!=0 and diff!=0 :
       
