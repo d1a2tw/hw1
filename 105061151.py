@@ -106,7 +106,10 @@ while search<5:
    search=search+1
 
 
-print(dict)
+
+print[ [list[0],dict[list[0]]],[list[1],dict[list[1]]],[list[2],dict[list[2]]],[list[3],dict[list[3]]],[list[4],dict[list[4]]]     ]
+
+
 
 #=======================================
 
